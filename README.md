@@ -2,7 +2,7 @@
 
 ### Webscraping project
 
-My first webscraping project. Scraped tender details from [SaskTenders](https://sasktenders.ca/content/public/Search.aspx)
+My first webscraping project. Scraped tender details from a public website.
 
 ### Tools used
 

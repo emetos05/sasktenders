@@ -2,8 +2,8 @@ import puppeteer from "puppeteer";
 import fs from "fs";
 
 // INPUT CONSTANTS TO PAGE
-const CATEGORY = "Research and Development Services";
-const STATUS = "Awarded";
+const CATEGORY = "[CATEGORY_HERE]";
+const STATUS = "[STATUS_HERE]";
 
 // Function to extract tender details from URL
 const getTenders = async () => {
@@ -17,7 +17,7 @@ const getTenders = async () => {
   const page = await browser.newPage();
 
   // Navigate the page to a URL
-  await page.goto("https://sasktenders.ca/content/public/Search.aspx", {
+  await page.goto("[URL_HERE]", {
     waitUntil: "domcontentloaded",
   });
 

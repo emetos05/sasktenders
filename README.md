@@ -6,4 +6,4 @@ My first webscraping project. Scraped tender details from [SaskTenders](https://
 
 ### Tools used
 
-- [![Puppeteer][pptr.dev]][Puppeteer-url]
+- [Puppeteer](https://pptr.dev/) - A high-level API to control headless Chrome over the DevTools Protocol.

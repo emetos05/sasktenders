@@ -1,0 +1,17 @@
+{
+  "name": "sasktenders-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "puppeteer": "^21.4.1"
+  },
+  "types": "module"
+}
